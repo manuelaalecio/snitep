@@ -28,6 +28,7 @@
 html,
 button {
   font: 500 var(--text-base) / 1.5 var(--ff-base);
+  background-color: var(--background);
 }
 
 h1,
