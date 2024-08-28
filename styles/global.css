@@ -19,9 +19,9 @@
   --background: #fafafa;
 
   --ff-base: "Montserrat", sans-serif;
-  --text-sm: 0, 875rem;
+  --text-sm: 0.875rem;
   --text-base: 1rem;
-  --text-lg: 2.5rem;
+  --text-lg: 1.5rem;
   --text-xl: 2rem;
 }
 
